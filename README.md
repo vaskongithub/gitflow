@@ -8,3 +8,5 @@ release/release-1.3 branch
 feature-1.1
 
 feature-2.1
+
+feature-2.2
